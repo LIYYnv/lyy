@@ -1,0 +1,9 @@
+test_add_contacts:
+  test_add_contacts_001:
+    name: "hehe"
+    phone: "109090"
+    text: "此联系人已保存"
+  test_add_contacts_002:
+    name: "heihei"
+    phone: "1234423"
+    text: "此联系人已保存"

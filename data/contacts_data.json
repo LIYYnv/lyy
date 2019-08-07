@@ -1,0 +1,8 @@
+{
+  "test_add_contacts":
+          [
+            {"name": "hehe", "phone": "109090", "text": "此联系人已保存"},
+            {"name": "haha", "phone": "34535345", "text": "此联系人已保存"},
+            {"name": "xixi", "phone": "2434242", "text": "此联系人已保存"}
+          ]
+}
